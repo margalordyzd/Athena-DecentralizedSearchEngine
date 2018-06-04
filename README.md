@@ -10,6 +10,7 @@ Athena was build on top of a truffle framwork using the following:
   * Web3.js to comunicate with the contract.
   * IPFS for the storage of the actual websites.
   * OpenZeppelin to improve the security of the contract.
+  * SafeMath modules to avoid overflow and Underflow flaws.
 
 ### Athena websites:
 
